@@ -1,3 +1,7 @@
+This is code built by Freya Xinran Zhang pre-processing Glassdoor data.
+
+Data from three sectors: manufacturing, retailing, and finance.
+
 built with
 	python
 	sklearn
